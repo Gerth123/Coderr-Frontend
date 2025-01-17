@@ -82,3 +82,7 @@ Dieses Repository enthält das Frontend der **Coderr** Jobplattform. Coderr erm�
    ├─ offer_list.css              # Stile für die Angebotsübersicht
    ├─ own_profile.css             # Stile für das eigene Profil
    └─ registration.css            # Stile für die Registrierungsseite
+
+## Kontakt
+
+Bei Fragen oder Anregungen wende dich gerne an kontakt@robin-gerth.de.
