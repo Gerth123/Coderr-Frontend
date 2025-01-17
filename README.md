@@ -21,8 +21,67 @@ Dieses Repository enthält das Frontend der **Coderr** Jobplattform, die es Unte
 
 ```plaintext
 /coderr-frontend
-├── index.html            # Haupt HTML-Datei
-├── styles.css            # Styling für das Frontend
-├── app.js                # JavaScript für API-Kommunikation und interaktive Elemente
-├── images/               # Ordner für Bilder (z.B. Logo, Icons)
-└── README.md             # Diese Datei
+Coderr_frontend_v1.1.0
+
+├─ business_profile.html
+├─ customer_profile.html
+├─ imprint.html
+├─ index.html
+├─ login.html
+├─ offer.html
+├─ offer_list.html
+├─ own_profile.html
+├─ privacy_policy.html
+├─ registration.html
+├─ scripts
+│  ├─ business_profile.js
+│  ├─ customer_profile.js
+│  ├─ index.js
+│  ├─ login.js
+│  ├─ offer_list.js
+│  ├─ profile.js
+│  ├─ registration.js
+│  ├─ single_offer.js
+│  └─ template
+│     ├─ business_profile_template.js
+│     ├─ customer_profile_template.js
+│     ├─ offer_list_template.js
+│     ├─ profile_business_templates.js
+│     ├─ profile_customer_templates.js
+│     └─ single_offer_template.js
+├─ shared
+│  ├─ scripts
+│  │  ├─ api.js
+│  │  ├─ auth.js
+│  │  ├─ config.js
+│  │  ├─ form_helper.js
+│  │  ├─ header.js
+│  │  ├─ offer_crud.js
+│  │  ├─ order_crud.js
+│  │  ├─ redirect.js
+│  │  ├─ review_crud.js
+│  │  ├─ template
+│  │  │  ├─ header_template.js
+│  │  │  ├─ offer_templates.js
+│  │  │  ├─ order_templates.js
+│  │  │  └─ review_templates.js
+│  │  ├─ ui_helper.js
+│  │  └─ user_crud.js
+│  └─ styles
+│     ├─ assets.css
+│     ├─ fonts.css
+│     ├─ form.css
+│     ├─ header_footer.css
+│     ├─ order_list.css
+│     ├─ standard.css
+│     └─ variables.css
+└─ styles
+   ├─ business_profile.css
+   ├─ customer_profile.css
+   ├─ index.css
+   ├─ login.css
+   ├─ offer.css
+   ├─ offer_list.css
+   ├─ own_profile.css
+   └─ registration.css
+
